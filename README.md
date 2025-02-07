@@ -1,4 +1,5 @@
-
+<div align="center">
+<img src="https://github.com/acozy03/acozy03/blob/main/typing.gif" alt="Welcome">
 <!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/acozy03/">
