@@ -17,8 +17,8 @@
 
 <div align="center">
     <h1>About Me</h1>
-    <p style="font-size: 18px; max-width: 600px; margin: auto;">
-        I'm a full-stack developer with a love for building scalable applications and exploring new technologies. 
+    <p style="font-size: 50px; max-width: 600px; margin: auto;">
+        Hi there! I'm a full-stack developer with a love for building scalable applications and exploring new technologies. 
         From crafting beautiful front-end designs to architecting powerful backends, I enjoy solving problems and bringing ideas to life. 
     </p>
 </div>
