@@ -1,3 +1,4 @@
+## Hi, I'm [Adrian Cosentino](https://adriancosentino.com)
 <!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/acozy03/">
@@ -17,7 +18,7 @@
 <div align="center">
     <h3>About Me</h3>
     <p style="font-size: 18px; max-width: 600px; margin: auto;">
-        Hi! I'm a full-stack developer with a love for building scalable applications and exploring new technologies. 
+        I'm a full-stack developer with a love for building scalable applications and exploring new technologies. 
         From crafting beautiful front-end designs to architecting powerful backends, I enjoy solving problems and bringing ideas to life. 
     </p>
 </div>
