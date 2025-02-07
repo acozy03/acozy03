@@ -1,3 +1,4 @@
+
 <!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/acozy03/">
@@ -15,41 +16,53 @@
 
 
 <div align="center">
-    <h3>About Me</h3>
+    <h1>About Me</h1>
     <p style="font-size: 18px; max-width: 600px; margin: auto;">
-        Hi there! I'm a full-stack developer with a love for building scalable applications and exploring new technologies. 
+        I'm a full-stack developer with a love for building scalable applications and exploring new technologies. 
         From crafting beautiful front-end designs to architecting powerful backends, I enjoy solving problems and bringing ideas to life. 
     </p>
 </div>
 <div align="center">
 
+<h1>Current Technologies</h1>
 
-### Languages
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![SQL (Postgres)](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+</div>
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
-![Material-UI](https://img.shields.io/badge/-Material--UI-black?style=flat-square&logo=mui)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
-![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest)
-![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-
-### Tools & Other Technologies
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
-![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-black?style=flat-square&logo=microsoft)
+<h1>Git Stats</h1>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=acozy03&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&order=3" height="175" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=acozy03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=false&order=2" height="175" alt="Top Languages" />
+</div>
